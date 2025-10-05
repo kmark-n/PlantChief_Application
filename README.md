@@ -16,3 +16,8 @@ Quantization
 FastAPI Integration
 
 Mobile App Integration (React Native app for image upload and prediction visualization)
+
+# Pipeline Overview
+
+<img width="1440" height="1024" alt="Desktop - 1" src="https://github.com/user-attachments/assets/579e79ab-926a-496b-9940-191275aa1434" />
+
