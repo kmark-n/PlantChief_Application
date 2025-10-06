@@ -21,13 +21,16 @@ Mobile App Integration (React Native app for image upload and prediction visuali
 
 <img width="1440" height="1024" alt="Desktop - 1" src="https://github.com/user-attachments/assets/579e79ab-926a-496b-9940-191275aa1434" />
 
+
 ## System Architecture
 
 <img width="1377" height="666" alt="server_inference" src="https://github.com/user-attachments/assets/9fdad4aa-9191-4222-800d-da8262cbdd01" />
 
 
 
-[![YouTube Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID "Watch the Demo on YouTube")
+
+
+[![YouTube Demo](https://img.youtube.com/vi/LibeujLIrNrNj1Cn/0.jpg)](https://www.youtube.com/watch?v=LibeujLIrNrNj1Cn "Watch the Demo on YouTube")
 
 > 🎥 *Click the image above to watch a full demo of the system in action.*
 
