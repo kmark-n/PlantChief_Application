@@ -32,7 +32,7 @@ Mobile App Integration (React Native app for image upload and prediction visuali
 Experience how the system works in real time 👇
 
 ### 🎥 Watch the Demo
-[![Watch the video](https://img.youtube.com/vi/MLVS9es7m6A/hqdefault.jpg)](https://youtu.be/MLVS9es7m6A?si=LibeujLIrNrNj1Cn)
+[![Watch the video](https://img.youtube.com/vi/rEkL5DqzhaI/hqdefault.jpg)](https://www.youtube.com/watch?v=rEkL5DqzhaI)
 
 
 
